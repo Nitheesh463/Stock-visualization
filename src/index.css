@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background: #181818;
+  color: #fff;
+  font-family: system-ui, sans-serif;
+}
+select {
+  padding: 6px 12px;
+  font-size: 16px;
+}
